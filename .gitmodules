@@ -1,6 +1,6 @@
 [submodule "hw1-cseslowpoke"]
 	path = hw1-cseslowpoke
-	url = https://github.com/compiler-f23/hw1-cseslowpoke
+	url = https://github.com/cseslowpoke/hw1-cseslowpoke
 [submodule "hw2-cseslowpoke"]
 	path = hw2-cseslowpoke
-	url = https://github.com/compiler-f23/hw2-cseslowpoke
+	url = https://github.com/cseslowpoke/hw2-cseslowpoke
