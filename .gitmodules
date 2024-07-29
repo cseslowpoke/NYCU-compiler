@@ -4,3 +4,12 @@
 [submodule "hw2-cseslowpoke"]
 	path = hw2-cseslowpoke
 	url = https://github.com/cseslowpoke/hw2-cseslowpoke
+[submodule "hw3-cseslowpoke"]
+	path = hw3-cseslowpoke
+	url = https://github.com/cseslowpoke/hw3-cseslowpoke
+[submodule "hw4-cseslowpoke"]
+	path = hw4-cseslowpoke
+	url = https://github.com/cseslowpoke/hw4-cseslowpoke
+[submodule "hw5-cseslowpoke"]
+	path = hw5-cseslowpoke
+	url = https://github.com/cseslowpoke/hw5-cseslowpoke
